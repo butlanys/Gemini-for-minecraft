@@ -15,7 +15,7 @@
 ### 安装
 
 1.  确保您已经安装了 [Minecraft Forge for 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)。
-2.  下载最新的Mod `.jar` 文件。
+2.  从 [GitHub Releases](https://github.com/butlanys/Gemini-for-minecraft/releases) 页面下载最新的Mod `.jar` 文件。
 3.  将 `.jar` 文件放入您Minecraft游戏目录下的 `mods` 文件夹中。
 4.  启动游戏！
 
